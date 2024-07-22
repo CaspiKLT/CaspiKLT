@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CaspiKLT
+- 👀 Frontend master
+- 🌱 Currently learning advanced React
+- 📫 To contact with me send me mail caspiklt@gmail.com
+- 😄 Pronouns: Rich/Wealthy
